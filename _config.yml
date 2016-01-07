@@ -1,0 +1,28 @@
+name: winter
+favicon: null
+layout_spectrum: 0.09828372532501817
+typography_spectrum: 0.9278817009180784
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.027044064830988646
+  lightness: 0.33457987988367677
+  saturation: 0.7781625951174647
+  rhythmicContrast: 0.273289188509807
+purpose: []
